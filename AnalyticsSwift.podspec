@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.homepage = "https://github.com/segmentio/analytics-swift"
     s.authors = "Segment, Inc."
 
-    s.ios.deployment_target = "16.0"
+    s.ios.deployment_target = "15.0"
     s.requires_arc = true
 
     s.source = { :path => "./Sources" }
